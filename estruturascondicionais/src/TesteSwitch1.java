@@ -2,7 +2,7 @@
 public class TesteSwitch1 {
 
 	public static void main(String[] args) {
-		int numero = 10;
+		int numero = 1;
 		switch (numero) {
 		case 1: {
 			System.out.println("variavel numero igual a 1");
